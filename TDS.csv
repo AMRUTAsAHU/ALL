@@ -1,0 +1,10 @@
+Description,Total TDS,Total Submitted to TPL By Micron,Submission to JEG by TPL - Pending - R0 ,Submission to JEG by TPL - Pending - R1 ,Submission to JEG by TPL - Pending - R2 ,Submission to JEG by TPL - Pending - R3 ,Submission to JEG by TPL - Pending - R4 ,Submission to JEG by TPL - Pending - R5 ,Submission to JEG by TPL - Pending - R6 ,Submission to JEG by TPL - Submitted ,Approved,Percentage Approved,Approved As Noted ,Percentage Approved As Noted,In Review with JEG,Revise & Resubmit,Yet to Submit - R0,Yet to Submit - Revise (R1…)
+Electrical,45,44,0,0,0,0,0,0,0,44,37,0.822222222,4,0.088888889,2,1,1,1
+HVAC,43,41,0,0,0,0,0,0,0,41,30,0.697674419,6,0.139534884,2,3,2,3
+PHE,62,52,0,0,0,0,0,0,0,52,39,0.629032258,2,0.032258065,9,2,11,2
+FPS,37,37,0,0,0,1,0,0,0,36,35,0.945945946,0,0,0,1,0,1
+ELV,38,36,0,0,0,0,0,0,0,36,31,0.815789474,2,0.052631579,3,0,2,0
+HSD,28,28,0,0,0,0,0,0,0,28,16,0.571428571,6,0.214285714,2,4,0,4
+BMS,25,25,0,0,1,0,0,0,0,24,18,0.72,2,0.08,4,0,0,0
+Telecom,30,30,0,0,0,0,0,0,0,30,30,1,0,0,0,0,0,0
+Total,308,293,0,0,1,1,0,0,0,291,236,0.766233766,22,0.071428571,22,11,16,11
